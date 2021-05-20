@@ -1,0 +1,29 @@
+
+Rango de Velocidad
+			-100%	0	100% VELOCIDAD
+- Hombro lateral:     -1.95 <= vA[0] <= 1.95
+- Hombro vertical:    -1.95 <= vA[1] <= 1.95
+- Brazo superior:     -2.35 <= vA[2] <= 2.35
+- Codo del Brazo:     -2.35 <= vA[3] <= 2.35
+- Brazo inferior:     -1.95 <= vA[4] <= 1.95
+- Muñeca del Brazo:   -1.76 <= vA[5] <= 1.76
+- Rotor de Muñeca:    -1.76 <= vA[6] <= 1.76
+
+
+Rango de Posiciones:
+						-100% 0 100% ERROR
+- Hombro lateral:      0.07 <= dA[0] <= 2.68 u=[-2.61:2.61]
+- Hombro vertical:     -1.5 <= dA[1] <= 1.02 u=[-2.52:2.52]
+- Brazo superior:     -3.46 <= dA[2] <= 1.5  u=[-4.96:4.96]
+- Codo del Brazo:     -0.32 <= dA[3] <= 2.29 u=[-2.61:2.61]
+- Brazo inferior:     -2.07 <= dA[4] <= 2.07 u=[-4.14:4.14]
+- Muñeca del Brazo:   -1.39 <= dA[5] <= 1.39 u=[-2.78:2.78]
+- Rotor de Muñeca:    -2.07 <= dA[6] <= 2.07 u=[-4.14:4.61]
+
+
+TIAGo - Robot Workspace versatility
+https://www.youtube.com/watch?v=6BwRqwD066g
+
+ERROR = DESEADO - SENSADO 
+u[-100:100]
+DU[-200:200]
