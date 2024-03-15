@@ -1,18 +1,13 @@
-# Brazo-robotico-7-grados-de-libertad---7-grades-liberty-RobotArm
+# Robotic-arm-7-degrees-of-freedom
 
-- english
-- seven deegres Robotic Arm controlled by PD mamdani fuzzy controller 
+- 7-degree-of-freedom robotic arm controlled by Fuzzy Logic Mamdani-type PD fuzzy controller. Developed to accurately indicate the angular velocity and position of the motors for each of the arm's axes.
 
--7 degrees of freedom robotic arm controlled by a mamdani type fuzzy PD controller designed to indicate to a 7 degrees of freedom robotic arm which position each motor should reach
-
-information on positions and maximum speeds of motors in folder Info. java controllers in Controller folder 
+Maximum motor position and velocity information in the Info folder. Java controllers in the Controller folder.
 
 
+# Brazo-robotico-7-grados-de-libertad 
 
--/************************************ ESPAÑOL **********************************************//
-
-
-- brazo robotico de 7 grados de libertad controlado mediante un controllador PD difuso tipo mamdani diseñado para indicar a un brazo robotico de 7 grados de libertad a que posición debe llegar cada motor 
+- brazo robotico de 7 grados de libertad controlado mediante lógica Difusa un PD fuzzy controller tipo Mamdani, Desarrollado con el fin de indicar con precisión la velocidad angular y la posición de los motores de cada uno de los ejes del brazo. 
 
 
 información de posisicones y velocidades máxima de motores en capeta Info. controladores java en carpeta Controller
